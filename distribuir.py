@@ -81,7 +81,7 @@ TECHS = [
         "type": "Integral",
         "start": "08:30",
         "end": "17:50",
-        "active": True,
+        "active": False,
     },
     {
         "name": "Guilherme",
@@ -91,24 +91,10 @@ TECHS = [
         "active": True,
     },
     {
-        "name": "Nicolas01",
+        "name": "Luiz Gustavo",
         "type": "Integral",
         "start": "08:30",
-        "end": "18:50",
-        "active": True,
-    },
-    {
-        "name": "Luiz",
-        "type": "Integral",
-        "start": "10:30",
         "end": "17:50",
-        "active": True,
-    },
-    {
-        "name": "Isaque",
-        "type": "Integral",
-        "start": "08:30",
-        "end": "17:30",
         "active": True,
     },
     {
@@ -126,7 +112,7 @@ TECHS = [
         "active": True,
     },
     {
-        "name": "Caua Gabriel",
+        "name": "Cauã Gabriel",
         "type": "Estagiário",
         "start": "14:10",
         "end": "18:50",
@@ -140,7 +126,7 @@ TECHS = [
         "active": True,
     },
     {
-        "name": "Nicolas02",
+        "name": "Nicolas",
         "type": "Estagiário",
         "start": "14:10",
         "end": "18:50",
